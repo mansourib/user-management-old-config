@@ -1,0 +1,6 @@
+CREATE TABLE user(
+id BIGINT PRIMARY KEY,
+age INT,
+name VARCHAR(100),
+adress VARCHAR(255)
+)
